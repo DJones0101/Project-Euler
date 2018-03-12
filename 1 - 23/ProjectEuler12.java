@@ -1,5 +1,5 @@
 /**
- * Created by Darius Gaming on 5/26/2017.
+ * Created by Darius Jones on 5/26/2017.
  */
 public class ProjectEuler12 {
 

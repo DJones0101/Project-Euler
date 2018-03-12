@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 
 /**
- * Created by Darius Gaming on 5/28/2017.
+ * Created by Darius Jones on 5/28/2017.
  * <p>
  * <p>
  * 2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.

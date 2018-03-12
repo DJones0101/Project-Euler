@@ -1,5 +1,5 @@
 /**
- * Created by Darius Gaming on 5/30/2017.
+ * Created by Darius Jones on 5/30/2017.
  * <p>
  * If the numbers 1 to 5 are written out in words: one, two, three, four, five,
  * then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.If all the numbers

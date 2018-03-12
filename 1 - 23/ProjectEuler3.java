@@ -1,5 +1,5 @@
 /**
- * Created by Darius Gaming on 5/20/2017.
+ * Created by Darius Jones on 5/20/2017.
  */
 public class ProjectEuler3 {
     public static void main(String[] args) {
